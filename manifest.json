@@ -11,7 +11,7 @@
     "lang":"es-MX",
     "icons":[
         {
-            "src":"./images/favicon",
+            "src":"./assets/favicon",
             "size":"1024x1024",
             "type":"image/png"
         }
