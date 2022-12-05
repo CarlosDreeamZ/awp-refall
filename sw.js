@@ -6,7 +6,8 @@ self.addEventListener('install', e =>{
                 'style.css',
                 'assets/slide.jpg',
                 'main.js',
-                'https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css'
+                'https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css',
+                'manifest.json'
                 
             ])
         });
